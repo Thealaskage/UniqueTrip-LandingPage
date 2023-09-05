@@ -8,5 +8,7 @@
 ![image](https://github.com/Thealaskage/UniqueTrip-LandingPage/assets/91036361/38907b2d-52f9-4a9c-8106-39e4d18368dd)
 ![image](https://github.com/Thealaskage/UniqueTrip-LandingPage/assets/91036361/138ff08c-343b-4608-99ca-32f0acf9bc11)
 ![image](https://github.com/Thealaskage/UniqueTrip-LandingPage/assets/91036361/082bba0d-4465-4415-9af6-3c2f29823a20)
+![image](https://github.com/Thealaskage/UniqueTrip-LandingPage/assets/91036361/cab647be-ffe9-412b-8260-5c933263c91f)
+![image](https://github.com/Thealaskage/UniqueTrip-LandingPage/assets/91036361/6374deb6-0fe8-4a8c-8b9c-6ca01af453a6)
 ![Uploading image.png…]()
 
