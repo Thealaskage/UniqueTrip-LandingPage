@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Iniciar Sesión - UniqueTrip App</title>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Contacto - UniqueTrip App</title>
   <!-- Agregar metaetiquetas para SEO -->
-  <!-- Resto de tus etiquetas y enlaces... -->
+  <meta name="description" content="Contáctanos para obtener más información sobre nuestros servicios de viaje.">
+  <meta name="keywords" content="contacto, UniqueTrip, viajes, información de contacto">
+  <meta name="author" content="UniqueTrip App">
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
 </head>
@@ -28,23 +31,23 @@
     </nav>
   </header>
 
-  <section class="login-form">
-    <h2>Iniciar Sesión</h2>
+  <section class="contact-form">
+    <h2>¡Contáctanos!</h2>
+    <p>Estamos aquí para ayudarte a descubrir nuevos lugares. Envíanos tus preguntas o comentarios y te responderemos a la brevedad.</p>
     <form>
-      <div class="form-group">
-        <label for="correo">Correo Electrónico</label>
-        <input type="email" id="correo" name="correo" required>
-      </div>
-      <div class="form-group">
-        <label for="contraseña">Contraseña</label>
-        <input type="password" id="contraseña" name="contraseña" required>
-      </div>
-      <button type="submit" class="btn">Iniciar Sesión</button>
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" name="nombre" required>
+
+      <label for="correo">Correo Electrónico:</label>
+      <input type="email" id="correo" name="correo" required>
+
+      <label for="mensaje">Mensaje:</label>
+      <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+
+      <button type="submit">Enviar</button>
     </form>
-    <p class="signup-text">¿No tienes una cuenta? <a href="#" class="signup-link">Regístrate</a></p>
   </section>
 
-  <!-- Footer -->
   <footer>
     <p>&copy; 2023 Unique Trip App</p>
   </footer>
